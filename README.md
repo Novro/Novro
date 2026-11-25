@@ -4,7 +4,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="./assets/megumin-banner.png"
+  <img src="./assets/anime-megumin.gif"
        width="100%"
        alt="A journey through the world">
 </p>
