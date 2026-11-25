@@ -4,7 +4,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="./assets/anime-megumin.gif"
+  <img src="./assets/megumin-banner.png"
        width="100%"
        alt="A journey through the world">
 </p>
@@ -91,20 +91,6 @@ and discovering how things work.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Novro&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
-<br>
-
-<!-- ========================================= -->
-<!--              CONTRIBUTIONS               -->
-<!-- ========================================= -->
-
-## 🗺️ Places I've Contributed
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Novro&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
-<br>
-
 <!-- ========================================= -->
 <!--                   FOOTER                  -->
 <!-- ========================================= -->
@@ -114,7 +100,7 @@ and discovering how things work.
 </p>
 
 <p align="center">
-  <img src="./assets/megumin.gif" width="180" alt="A little journey">
+  <img src="./assets/anime-megumin.gif" width="180" alt="A little journey">
 </p>
 
 <p align="center">
