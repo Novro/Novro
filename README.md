@@ -4,7 +4,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="./assets/header.png"
+  <img src="./assets/megumin-banner.png"
        width="100%"
        alt="A journey through the world">
 </p>
@@ -114,7 +114,7 @@ and discovering how things work.
 </p>
 
 <p align="center">
-  <img src="./assets/journey.gif" width="180" alt="A little journey">
+  <img src="./assets/megumin.gif" width="180" alt="A little journey">
 </p>
 
 <p align="center">
