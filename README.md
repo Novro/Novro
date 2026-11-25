@@ -1,44 +1,44 @@
 
-<!-- ========================================= -->
-<!--                  HEADER                   -->
-<!-- ========================================= -->
+<!-- ======================================== -->
+<!--              MEGUMIN BANNER              -->
+<!-- ======================================== -->
 
 <p align="center">
   <img src="./assets/megumin-banner.png"
        width="100%"
-       alt="A journey through the world">
+       alt="Megumin - Crimson Explosion">
 </p>
 
 <h1 align="center">Novro</h1>
 
 <p align="center">
-  <i>Just another traveler passing through the world.</i>
+  <i>One day, my code shall create an explosion worthy of the heavens.</i>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1500&color=A8B59A&center=true&vCenter=true&width=435&lines=Currently+learning+anything.;Exploring+the+world+through+code.;Every+journey+starts+somewhere." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=C94B59&center=true&vCenter=true&width=500&lines=Currently+an+Undergraduate+Student.;Learning+anything+and+everything.;Preparing+my+ultimate+EXPLOSION!" alt="Typing SVG">
 </p>
 
 <br>
 
-<!-- ========================================= -->
-<!--                 ABOUT ME                  -->
-<!-- ========================================= -->
+<!-- ======================================== -->
+<!--                  ABOUT                   -->
+<!-- ======================================== -->
 
-## 🌿 About Me
+## 💫 About Me
 
 Currently an Undergraduate College Student.
 
 Currently learning about anything :)
 
-I enjoy exploring different things, experimenting with ideas,
-and discovering how things work.
+Exploring software development, experimenting with ideas,
+and occasionally trying to make something explode.
 
 <br>
 
-<!-- ========================================= -->
-<!--                  SOCIALS                  -->
-<!-- ========================================= -->
+<!-- ======================================== -->
+<!--                 SOCIALS                  -->
+<!-- ======================================== -->
 
 ## 🌐 Socials
 
@@ -53,11 +53,11 @@ and discovering how things work.
 
 <br>
 
-<!-- ========================================= -->
-<!--                 TECH STACK                -->
-<!-- ========================================= -->
+<!-- ======================================== -->
+<!--                TECH STACK                -->
+<!-- ======================================== -->
 
-## 🧰 Tools Along the Journey
+## 🔮 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -73,11 +73,11 @@ and discovering how things work.
 
 <br>
 
-<!-- ========================================= -->
-<!--                GITHUB STATS               -->
-<!-- ========================================= -->
+<!-- ======================================== -->
+<!--                GITHUB STATS              -->
+<!-- ======================================== -->
 
-## 📖 Journey Log
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Novro&theme=dark&hide_border=true&include_all_commits=true&count_private=false"/>
@@ -91,22 +91,38 @@ and discovering how things work.
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Novro&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </p>
 
-<!-- ========================================= -->
-<!--                   FOOTER                  -->
-<!-- ========================================= -->
+<br>
+
+<!-- ======================================== -->
+<!--              CONTRIBUTIONS               -->
+<!-- ======================================== -->
+
+## 🏆 Top Contributed Repositories
 
 <p align="center">
-  <i>"The world is wide. There's still so much to see."</i>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Novro&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+<br>
+
+<!-- ======================================== -->
+<!--                  FOOTER                  -->
+<!-- ======================================== -->
+
+<p align="center">
+  <i>"EXPLOSION!!"</i>
 </p>
 
 <p align="center">
-  <img src="./assets/anime-megumin.gif" width="180" alt="A little journey">
+  <img src="./assets/anime-megumin.gif"
+       width="180"
+       alt="Megumin Explosion Animation">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Novro&icon=1&color=6B8065"/>
+  <img src="https://komarev.com/ghpvc/?username=Novro&icon=1&color=A52A3A"/>
 </p>
 
 <p align="center">
-  <sub>Keep wandering. Keep learning.</sub>
+  <sub>Made with magic, code, and an unreasonable amount of explosions.</sub>
 </p>
